@@ -1,5 +1,5 @@
-// 侧边栏宽度
-$nav-width: 220px;
+// 侧边栏宽度 - 加宽到 264px
+$nav-width: 264px;
 
 // 侧边栏固定宽度
 .side-bar {
@@ -21,8 +21,8 @@ $nav-width: 220px;
 // 内容容器全宽
 .main-content-wrap {
   max-width: none !important;
-  padding-right: 2rem;
-  padding-left: 2rem;
+  padding-right: 3rem;
+  padding-left: 3rem;
 }
 
 .main-content {
