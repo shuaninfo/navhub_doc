@@ -28,11 +28,10 @@ jobs:
         with:
           ruby-version: '3.3'
           bundler-cache: true
-      - name: Build with Jekyll
-        uses: jeffreylee/jekyll-build-action@main
-        with:
-          source: ./docs
-          destination: ./_site
+      - name: Build Jekyll
+        run: |
+          bundle install
+          bundle exec jekyll build --source docs --destination _site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
