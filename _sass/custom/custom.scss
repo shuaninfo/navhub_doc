@@ -1,0 +1,35 @@
+// 侧边栏宽度
+$nav-width: 220px;
+
+// 侧边栏固定宽度
+.side-bar {
+  width: $nav-width !important;
+  min-width: $nav-width !important;
+  max-width: $nav-width !important;
+}
+
+// 主内容区域全屏
+.main {
+  max-width: none !important;
+  margin-left: $nav-width !important;
+
+  @include mq(md) {
+    margin-left: $nav-width !important;
+  }
+}
+
+// 内容容器全宽
+.main-content-wrap {
+  max-width: none !important;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+.main-content {
+  max-width: none !important;
+}
+
+// 搜索结果全宽
+.search-results {
+  max-width: none !important;
+}
