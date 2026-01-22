@@ -1,4 +1,4 @@
-// 侧边栏宽度 - 加宽到 264px
+// 侧边栏宽度 - 264px
 $nav-width: 264px;
 
 // 侧边栏固定宽度
@@ -6,6 +6,20 @@ $nav-width: 264px;
   width: $nav-width !important;
   min-width: $nav-width !important;
   max-width: $nav-width !important;
+}
+
+// 减少标题和导航之间的间距
+.site-header {
+  padding-bottom: 0.5rem !important;
+}
+
+.site-title {
+  margin-bottom: 0.25rem !important;
+}
+
+// 导航列表顶部间距
+.site-nav {
+  padding-top: 0.5rem !important;
 }
 
 // 主内容区域全屏
