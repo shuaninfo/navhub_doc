@@ -1,6 +1,6 @@
 ---
+parent: Membership
 title: Upgrade Guide
-order: 3
 ---
 
 # Upgrade Guide

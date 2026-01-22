@@ -1,6 +1,6 @@
 ---
 title: FAQ
-order: 5
+nav_order: 6
 ---
 
 # Frequently Asked Questions
@@ -39,7 +39,7 @@ Yes, NavHub is fully responsive and works on mobile browsers. Native mobile apps
 
 Yes! Export your bookmarks as HTML from your browser and import them in NavHub Settings → Import/Export.
 
-[Full import guide →](./guides/import-bookmarks.md)
+[Full import guide →](guides/import-bookmarks)
 
 ### How do I organize bookmarks?
 
@@ -59,7 +59,7 @@ Free: Clock, Weather, Bookmarks, To-Do, Search, Notes
 
 Pro adds: RSS Feed (unlimited), Embed, Calendar, Analytics
 
-[Full widget list →](./features/widgets.md)
+[Full widget list →](features/widgets)
 
 ### How do I add a widget?
 
@@ -85,7 +85,7 @@ Yes, drag the corners or edges of most widgets to resize them.
 
 AI features consume tokens. Free gets 10,000/month, Pro gets 100,000/month.
 
-[AI token details →](./features/ai.md)
+[AI token details →](features/ai)
 
 ### Are my bookmarks used for AI training?
 
@@ -100,7 +100,7 @@ No. Your data is never used to train AI models. It's only processed to provide f
 3. Choose billing cycle
 4. Enter payment details
 
-[Upgrade guide →](./membership/upgrade.md)
+[Upgrade guide →](membership/upgrade)
 
 ### Can I cancel anytime?
 

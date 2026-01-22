@@ -1,6 +1,7 @@
 ---
 title: Browser Extension
-order: 5
+nav_order: 5
+parent: Features
 ---
 
 # Browser Extension

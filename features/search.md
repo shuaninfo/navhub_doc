@@ -1,6 +1,7 @@
 ---
 title: Search
-order: 6
+nav_order: 6
+parent: Features
 ---
 
 # Search

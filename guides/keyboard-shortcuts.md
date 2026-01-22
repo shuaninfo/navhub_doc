@@ -1,6 +1,6 @@
 ---
+parent: User Guides
 title: Keyboard Shortcuts
-order: 5
 ---
 
 # Keyboard Shortcuts

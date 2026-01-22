@@ -1,6 +1,7 @@
 ---
 title: Widget System
-order: 2
+nav_order: 2
+parent: Features
 ---
 
 # Widget System

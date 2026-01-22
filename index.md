@@ -1,6 +1,6 @@
 ---
-title: NavHub Help Center
-order: 0
+title: Home
+nav_order: 1
 ---
 
 # NavHub Help Center
@@ -20,24 +20,24 @@ NavHub is a smart personal navigation platform that helps you:
 
 | Section | Description |
 |---------|-------------|
-| [About NavHub](./about/README.md) | Understand what NavHub is and its core value |
-| [Features](./features/README.md) | Deep dive into bookmarks, widgets, AI, and more |
-| [Membership](./membership/README.md) | Free vs Pro comparison, pricing, and upgrades |
-| [User Guides](./guides/README.md) | Step-by-step tutorials from beginner to pro |
-| [FAQ](./faq/README.md) | Answers to common questions |
+| [About NavHub](about/) | Understand what NavHub is and its core value |
+| [Features](features/) | Deep dive into bookmarks, widgets, AI, and more |
+| [Membership](membership/) | Free vs Pro comparison, pricing, and upgrades |
+| [User Guides](guides/) | Step-by-step tutorials from beginner to pro |
+| [FAQ](faq/) | Answers to common questions |
 
 ## Getting Started
 
 **New to NavHub?** We recommend:
 
-1. [What is NavHub](./about/README.md) — 3-minute product overview
-2. [Quick Start](./guides/quick-start.md) — Create account, add your first bookmark
-3. [Widgets 101](./features/widgets.md) — Customize your dashboard
+1. [What is NavHub](about/) — 3-minute product overview
+2. [Quick Start](guides/quick-start) — Create account, add your first bookmark
+3. [Widgets 101](features/widgets) — Customize your dashboard
 
 **Migrating from another tool?**
 
-- [Import from Chrome](./guides/import-bookmarks.md)
-- [Migrate from Raindrop.io](./guides/import-bookmarks.md#raindrop)
+- [Import from Chrome](guides/import-bookmarks)
+- [Migrate from Raindrop.io](guides/import-bookmarks#raindrop)
 
 ## Contact Us
 
@@ -49,4 +49,4 @@ Need help? We're here for you:
 
 ---
 
-*Last updated: 2026-01-08*
+*Last updated: 2026-01-22*

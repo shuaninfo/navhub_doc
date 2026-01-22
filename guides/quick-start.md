@@ -1,6 +1,6 @@
 ---
+parent: User Guides
 title: Quick Start
-order: 1
 ---
 
 # Quick Start Guide

@@ -1,6 +1,7 @@
 ---
 title: Membership
-order: 3
+nav_order: 4
+has_children: true
 ---
 
 # Membership
@@ -47,7 +48,7 @@ For power users who need more:
 
 ## Pricing
 
-See [Pricing Details](./pricing.md) for current prices and available discounts.
+See [Pricing Details](pricing) for current prices and available discounts.
 
 | Billing Cycle | Price | Savings |
 |---------------|-------|---------|
@@ -84,7 +85,7 @@ Ready to upgrade? Here's how:
 4. Enter payment details
 5. Enjoy Pro features immediately
 
-See [Upgrade Guide](./upgrade.md) for step-by-step instructions.
+See [Upgrade Guide](upgrade) for step-by-step instructions.
 
 ## Payment Methods
 
@@ -149,6 +150,6 @@ Yes, contact support and we'll prorate your subscription.
 
 ## Next Steps
 
-- [Pricing Details](./pricing.md) — See exact prices and discounts
-- [Upgrade Guide](./upgrade.md) — Step-by-step upgrade process
-- [Free vs Pro](./free-vs-pro.md) — Detailed feature comparison
+- [Pricing Details](pricing) — See exact prices and discounts
+- [Upgrade Guide](upgrade) — Step-by-step upgrade process
+- [Free vs Pro](free-vs-pro) — Detailed feature comparison

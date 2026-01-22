@@ -1,6 +1,6 @@
 ---
 title: What is NavHub
-order: 1
+nav_order: 2
 ---
 
 # What is NavHub
@@ -67,6 +67,6 @@ NavHub solves these problems, making your online life organized and efficient.
 
 ## Next Steps
 
-- [Quick Start](../guides/quick-start.md) — Set up your first collection in 5 minutes
-- [Features](../features/README.md) — Explore all features in detail
-- [Membership](../membership/README.md) — Compare Free vs Pro plans
+- [Quick Start](../guides/quick-start) — Set up your first collection in 5 minutes
+- [Features](../features/) — Explore all features in detail
+- [Membership](../membership/) — Compare Free vs Pro plans

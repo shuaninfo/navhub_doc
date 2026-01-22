@@ -1,6 +1,7 @@
 ---
 title: Features
-order: 2
+nav_order: 3
+has_children: true
 ---
 
 # Features
@@ -11,12 +12,12 @@ NavHub provides a comprehensive set of tools to organize your online life. Explo
 
 | Feature | Description |
 |---------|-------------|
-| [Bookmark Management](./bookmarks.md) | Smart organization with tags, folders, and search |
-| [Widget System](./widgets.md) | Customizable dashboard with drag-and-drop widgets |
-| [Multiple Pages](./pages.md) | Create separate pages for different contexts |
-| [AI Features](./ai.md) | Auto-categorization, summaries, and smart search |
-| [Browser Extension](./extension.md) | One-click save from any webpage |
-| [Search](./search.md) | Full-text and AI-powered search |
+| [Bookmark Management](bookmarks) | Smart organization with tags, folders, and search |
+| [Widget System](widgets) | Customizable dashboard with drag-and-drop widgets |
+| [Multiple Pages](pages) | Create separate pages for different contexts |
+| [AI Features](ai) | Auto-categorization, summaries, and smart search |
+| [Browser Extension](extension) | One-click save from any webpage |
+| [Search](search) | Full-text and AI-powered search |
 
 ## Quick Feature Comparison by Plan
 
@@ -29,7 +30,7 @@ NavHub provides a comprehensive set of tools to organize your online life. Explo
 | Import/Export | ✓ | ✓ |
 | Browser Extension | ✓ | ✓ |
 
-See [Membership](../membership/README.md) for full plan comparison.
+See [Membership](../membership/) for full plan comparison.
 
 ## Core Features
 
@@ -42,7 +43,7 @@ Organize your links with powerful tools:
 - **Notes** — Add personal notes and descriptions to bookmarks
 - **Thumbnails** — Visual previews for quick recognition
 
-[Learn more about Bookmark Management →](./bookmarks.md)
+[Learn more about Bookmark Management →](bookmarks)
 
 ### 🧩 Widget System
 
@@ -57,7 +58,7 @@ Build your perfect dashboard:
 - **Notes** — Quick notes on your dashboard
 - **Embed** — iFrame any webpage
 
-[Learn more about Widgets →](./widgets.md)
+[Learn more about Widgets →](widgets)
 
 ### 🤖 AI Features
 
@@ -68,7 +69,7 @@ Let AI help you stay organized:
 - **AI search** — Find bookmarks using natural language
 - **Content translation** — Read any language
 
-[Learn more about AI Features →](./ai.md)
+[Learn more about AI Features →](ai)
 
 ### 📄 Multiple Pages
 
@@ -79,7 +80,7 @@ Separate contexts for better focus:
 - Quick switch between pages
 - Share pages with others (Pro)
 
-[Learn more about Pages →](./pages.md)
+[Learn more about Pages →](pages)
 
 ### 🔌 Browser Extension
 
@@ -91,4 +92,4 @@ Save bookmarks without leaving the page:
 - Screenshot capture
 - Works on Chrome, Edge, Firefox
 
-[Learn more about Browser Extension →](./extension.md)
+[Learn more about Browser Extension →](extension)

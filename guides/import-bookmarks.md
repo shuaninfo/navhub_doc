@@ -1,6 +1,6 @@
 ---
+parent: User Guides
 title: Import Bookmarks
-order: 2
 ---
 
 # Import Bookmarks

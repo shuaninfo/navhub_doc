@@ -1,6 +1,6 @@
 ---
+parent: Membership
 title: Free vs Pro
-order: 2
 ---
 
 # Free vs Pro Comparison

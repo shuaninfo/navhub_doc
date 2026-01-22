@@ -1,6 +1,6 @@
 ---
+parent: Membership
 title: Pricing
-order: 1
 ---
 
 # Pricing
