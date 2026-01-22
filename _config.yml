@@ -8,6 +8,14 @@ remote_theme: just-the-docs/just-the-docs
 
 color_scheme: light
 
+# 排除非文档目录
+exclude:
+  - _sass
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
 nav_external_links:
   - title: NavHub App
     url: https://navhub.info
@@ -16,9 +24,6 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 footer_content: "Copyright &copy; 2024-2026 NavHub. All rights reserved."
-
-# 侧边栏导航排序
-nav_sort: case_sensitive
 
 # 搜索
 search_enabled: true
